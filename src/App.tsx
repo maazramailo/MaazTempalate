@@ -31,7 +31,9 @@ function App() {
 
   return (
     <StyledApp>
+      <p>Maaz Bot</p>
       <AppContainer>
+
         <FlexBoxCol>
           <FlexBoxRow>
             <TonConnectButton />
